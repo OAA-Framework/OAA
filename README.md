@@ -2,10 +2,6 @@
   <img src="five-layer-oaa-shield.png" width="140" alt="OAA Framework Logo">
 </p>
 
-<p align="center">
-  <img src="five-layer-oaa-shield.png" width="140" alt="OAA Framework Logo">
-</p>
-
 <h1 align="center">Observer‑Aware Architecture (OAA)</h1>
 
 <p align="center">
