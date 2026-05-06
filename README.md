@@ -65,7 +65,6 @@ Each component is designed to be used independently or as part of a complete arc
 The official OAA website is currently under development.
 
 **Coming Soon:**  
-https://oaa-framework.org  
 https://oaa-framework.com  
 
 ---
